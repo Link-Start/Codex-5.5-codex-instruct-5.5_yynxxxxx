@@ -24,11 +24,11 @@ Codex-X 提供桌面 UI、Provider 切换、TOML / Auth 可视化编辑、会话
     <tr>
       <td align="center">
         <b>QQ AI 技术交流群 1</b><br />
-        <img alt="QQ AI 技术交流群 1 二维码" src="https://cdn.jsdelivr.net/gh/yynxxxxx/Codex-5.5-codex-instruct-5.5@main/assets/ai-tech-group-480.png" />
+        <img alt="QQ AI 技术交流群 1 二维码" src="https://cdn.jsdelivr.net/gh/yynxxxxx/Codex-5.5-codex-instruct-5.5@main/assets/ai-tech-group-1-unified-480.png" />
       </td>
       <td align="center">
         <b>QQ AI 技术交流群 2</b><br />
-        <img alt="QQ AI 技术交流群 2 二维码" src="https://cdn.jsdelivr.net/gh/yynxxxxx/Codex-5.5-codex-instruct-5.5@main/assets/ai-tech-group-2-latest-480.png" />
+        <img alt="QQ AI 技术交流群 2 二维码" src="https://cdn.jsdelivr.net/gh/yynxxxxx/Codex-5.5-codex-instruct-5.5@main/assets/ai-tech-group-2-unified-480.png" />
       </td>
     </tr>
   </table>
